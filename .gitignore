@@ -1,0 +1,16 @@
+# Секреты — НИКОГДА не коммитим
+.env
+
+# Собранные данные
+data/*.csv
+data/*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Системное
+.DS_Store
